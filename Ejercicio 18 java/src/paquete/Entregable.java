@@ -1,0 +1,11 @@
+package paquete;
+
+public interface Entregable {
+
+    void entregar();
+    void devolver();
+    boolean isEntregado();
+
+
+
+}
